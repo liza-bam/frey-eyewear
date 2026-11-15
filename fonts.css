@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/frey-eyewear/fonts/va9b4kzIxd1KFppkaRKvDRPJVDf_vB_ulw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/frey-eyewear/fonts/va9b4kzIxd1KFppkaRKvDRPJVDf_Wxjulw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/frey-eyewear/fonts/va9b4kzIxd1KFppkaRKvDRPJVDf_FRjulw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Dangrek';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/frey-eyewear/fonts/LYjCdG30nEgoH8E2gCM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/frey-eyewear/fonts/ptRMTiqXYfZMCOiVj9kQ5O4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/frey-eyewear/fonts/ptRPTiqXYfZMCOiVj9kQ3FLdDQs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/frey-eyewear/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf) format('truetype');
+}

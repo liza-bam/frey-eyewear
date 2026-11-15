@@ -1,0 +1,1 @@
+window.FREY_PRODUCT_ALIASES={"jewel": "squiggles", "bossman-ronda": "whaler", "lippity-2": "fogster", "blackies-2": "truss", "tic-toe-2": "dusk-baby", "fogster-4": "torty-round", "mintissimo": "lippity", "tropic-tops": "candy-crush", "wicked-round": "torty-round", "squarebob": "lippity"};

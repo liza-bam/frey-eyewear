@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="476.121" height="429.478" viewBox="0 0 476.121 429.478" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-25" y="-25" width="526.121" height="479.478"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(12.5px);clip-path:url(#bgblur_0_0_1019_clip_path);height:100%;width:100%"></div></foreignObject><path id="Vector" data-figma-bg-blur-radius="25" d="M11.9699 429.478H476.121L427.669 259.048C384.459 290.882 379.345 361.799 332.653 201.497C262.904 -37.9681 39.8997 2.59794 0 2.59794C0 2.59794 11.9699 153.393 11.9699 268.768V429.478Z" fill="url(#paint0_radial_0_1019)" style="mix-blend-mode:hard-light"/>
+<defs>
+<clipPath id="bgblur_0_0_1019_clip_path" transform="translate(25 25)"><path d="M11.9699 429.478H476.121L427.669 259.048C384.459 290.882 379.345 361.799 332.653 201.497C262.904 -37.9681 39.8997 2.59794 0 2.59794C0 2.59794 11.9699 153.393 11.9699 268.768V429.478Z"/>
+</clipPath><radialGradient id="paint0_radial_0_1019" cx="0" cy="0" r="1" gradientTransform="matrix(31.9197 -434.745 480.56 77.5403 139.649 343.292)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ACFFF1"/>
+<stop offset="0.85" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
